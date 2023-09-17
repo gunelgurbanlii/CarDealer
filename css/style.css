@@ -1,0 +1,568 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#justsection {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+#justsection .hyundaii .santa h1 {
+    color: #363636;
+    font-weight: bolder;
+    font-size: 28px;
+    line-height: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#justsection .hyundaii .santa {
+    margin-left: 90px;
+}
+
+#justsection .hyundaii {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#justsection .hyundaii .plus {
+    padding-left: 190px;
+}
+
+#justsection .hyundaii .santa p {
+    color: #9999B3;
+}
+
+#justsection .hyundaii .plus h1 {
+    color: #DB2D2E;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+#justsection .hyundaii .plus p {
+    color: #9999B3;
+    font-style: italic;
+}
+
+#justsection .request {
+    margin-left: 40px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#justsection .request ul {
+    list-style: none;
+    display: flex;
+
+}
+
+#justsection .request ul li {
+    padding: 10px;
+    font-size: larger;
+    color: #999999;
+
+}
+
+#justsection .request ul li button {
+    width: 110%;
+    font-size: medium;
+    height: 40px;
+    color: gray;
+    background-color: white;
+    border-top-color: rgba(128, 128, 128, 0.203);
+    border-left-color: rgba(128, 128, 128, 0.203);
+    border-bottom-color: rgba(128, 128, 128, 0.203);
+    border-right-color: rgba(128, 128, 128, 0.203);
+    padding: 7px;
+    margin: 10px;
+    transition: 1s;
+}
+
+#justsection .request ul li button:hover {
+    background-color: #DF4243;
+    color: white;
+
+}
+
+
+#justsection .second .sekil .option ul {
+    list-style: none;
+    display: flex;
+    margin-left: 40px;
+    margin-top: 40px;
+
+}
+
+#justsection .second .sekil .option ul li button {
+    border-top-color: white;
+    background-color: white;
+    border-left-color: white;
+    border-bottom-color: rgba(255, 255, 255, 0);
+    border-right-color: rgba(255, 255, 255, 0);
+    list-style: none;
+    padding: 15px;
+    position: relative;
+
+}
+
+#justsection .second .sekil .option ul li button::before {
+    position: absolute;
+    background-color: #DB2D2E;
+    width: 190px;
+    height: 2px;
+    content: '';
+    bottom: 3.3px;
+}
+
+
+
+#justsection .request ul li i {
+    color: #999999;
+    font-size: medium;
+}
+
+#justsection .second .sekil {
+    width: 58%;
+    margin-left: 22px;
+}
+
+#justsection .second .sekil img {
+    width: 100%;
+    padding-left: 70px;
+
+}
+
+#justsection .second ul li span {
+    display: inline-block;
+    color: #99A4B3;
+}
+
+
+
+
+
+#justsection .second .description ul li .desc1 {
+    padding-left: 100px;
+
+}
+
+#justsection .second .description ul li .desc2 {
+    padding-left: 89px;
+}
+
+#justsection .second .description ul li .desc3 {
+    padding-left: 15px;
+}
+
+#justsection .second .description ul li .desc4 {
+    padding-left: 79px;
+}
+
+#justsection .second .description ul li .desc5 {
+    padding-left: 70px;
+}
+
+#justsection .second .description ul li .desc6 {
+    padding-left: 44px;
+}
+
+#justsection .second .description ul li .desc7 {
+    padding-left: 44px;
+}
+
+#justsection .second .description ul li .desc8 {
+    padding-left: 47px;
+}
+
+#justsection .second .description ul li .desc9 {
+    padding-left: 89px;
+
+}
+
+#justsection .second .description ul li .desc10 {
+    padding-left: 68px;
+}
+
+#justsection .second .description h5 {
+    color: #363636;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+    padding-left: 30px;
+    padding-bottom: 15px;
+
+}
+
+#justsection .second .description ul li strong {
+    list-style: none;
+}
+
+#justsection .second .description ul .lala1 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala2 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala3 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala4 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala5 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala6 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala7 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala8 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala9 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul .lala10 {
+    padding-bottom: 25px;
+    position: relative;
+}
+
+#justsection .second .description ul {
+    list-style: none;
+
+}
+
+#justsection .second .description ul .lala1::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 0.5px;
+    top: 30px;
+}
+
+#justsection .second .description ul .lala2::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 1px;
+    top: 30px;
+}
+
+#justsection .second .description ul .lala3::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 0.3px;
+    top: 30px;
+}
+
+#justsection .second .description ul .lala4::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 1.2px;
+    top: 30px;
+}
+
+
+#justsection .second .description ul .lala5::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 1.2px;
+    top: 30px;
+}
+
+
+#justsection .second .description ul .lala6::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 1px;
+    top: 30px;
+}
+
+
+#justsection .second .description ul .lala7::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 0.3px;
+    top: 30px;
+}
+
+
+#justsection .second .description ul .lala8::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 1.2px;
+    top: 30px;
+}
+
+#justsection .second .description ul .lala9::before {
+    position: absolute;
+    content: '';
+    width: 350px;
+    background-color: #999999;
+    height: 1.2px;
+    top: 30px;
+}
+
+
+#justsection .second .description h5::before {
+    position: absolute;
+    content: '';
+    width: 30px;
+    background-color: red;
+    height: 1.6px;
+    top: 30px;
+}
+
+
+#justsection .third .general .cons {
+    margin-left: 85px;
+
+}
+
+#justsection .third .general .cons h4 {
+    font-size: large;
+    font-weight: bold;
+    color: #363636
+}
+
+#justsection .third .general .cons p {
+    color: #9C9999;
+}
+
+#justsection .feature .extra1 {
+    margin-left: 30px;
+}
+
+#justsection .feature .extra1 i {
+    color: #DB2D2E;
+
+}
+
+#justsection .feature .extra1 h6 {
+    color: rgb(132, 132, 132);
+    font-weight: 400;
+    padding: 3px 40px;
+}
+
+#justsection .share h5 {
+    color: black;
+    font-weight: bold;
+    position: relative;
+
+}
+
+#justsection .share h5::before {
+    position: absolute;
+    content: '';
+    width: 20px;
+    background-color: red;
+    height: 1.6px;
+    top: 40px;
+}
+
+
+#justsection .share ul {
+    list-style: none;
+    display: flex;
+    padding: 10px;
+    padding-top: 25px;
+}
+
+#justsection .share ul li a {
+    text-decoration: none;
+    padding: 8px;
+    color: black;
+    position: relative;
+    font-weight: 200;
+    transition: 0.5s;
+}
+
+#justsection .share ul li i {
+    font-size: 14px;
+}
+
+#justsection .share ul li a:hover {
+    color: red;
+}
+
+#justsection .share .send {
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+
+#justsection .share .send h5 {
+    padding-top: 15px;
+}
+
+
+#justsection .share .send .name {
+    padding: 30px;
+}
+
+#justsection .share .send h6 {
+    color: rgba(0, 0, 0, 0.621);
+    padding-top: 27px;
+    padding-bottom: 3px;
+}
+
+#justsection .share .send button {
+    background-color: rgb(218, 15, 56);
+    color: white;
+    width: 70%;
+    height: 40px;
+    border-radius: 2px;
+    margin-top: 13px;
+    border-color: rgb(218, 15, 56);
+}
+
+#justsection .share .send input {
+    width: 70%;
+    height: 40px;
+    background-color: #F6F6F6;
+    border-color: #F6F6F6;
+    border-left-color: #f6f6f62b;
+    border-top-color: #f6f6f62b;
+}
+
+#justsection .share .send input:hover {
+    border-color: #DB2D2E;
+}
+
+#justsection .share .send .lisa {
+    height: 100px;
+}
+
+#justsection .share .send .lisa:placeholder-shown {
+    padding-bottom: 60px;
+    padding-left: 15px;
+}
+
+#justsection .share .send :placeholder-shown {
+    padding-left: 15px;
+}
+
+#justsection .share .seller {
+    margin-left: 90px;
+    margin-top: 40px;
+}
+
+#justsection .share .seller h3 {
+    font-weight: bold;
+}
+
+#justsection .share .seller p {
+    color: gray;
+    padding-left: 47px;
+
+}
+
+#justsection .share .seller h3 i {
+    font-size: large;
+    background-color: rgba(128, 128, 128, 0.16);
+    padding: 15px;
+    border-radius: 25px;
+    color: gray;
+    transition: 1s;
+}
+
+#justsection .share .seller h3 i:hover {
+    color: white;
+    background-color: #DB2D2E;
+}
+
+#justsection .share .finance {
+    margin-left: 50px;
+    margin-top: 40px;
+
+}
+
+#justsection .share .finance h5 {
+    padding-top: 15px;
+}
+
+
+#justsection .share .finance .name {
+    padding: 30px;
+}
+
+#justsection .share .finance h6 {
+    color: rgba(0, 0, 0, 0.621);
+    padding-top: 27px;
+    padding-bottom: 3px;
+}
+
+#justsection .share .finance button {
+    background-color: rgb(218, 15, 56);
+    color: white;
+    width: 70%;
+    height: 40px;
+    border-radius: 2px;
+    margin-top: 13px;
+    border-color: rgb(218, 15, 56);
+}
+
+#justsection .share .finance input {
+    width: 70%;
+    height: 40px;
+    background-color: #F6F6F6;
+    border-color: #F6F6F6;
+    border-left-color: #f6f6f62b;
+    border-top-color: #f6f6f62b;
+}
+
+#justsection .share .finance input:hover {
+    border-color: #DB2D2E;
+}
+
+#justsection .share .finance .lisa {
+    height: 100px;
+}
+
+#justsection .share .finance.lisa:placeholder-shown {
+    padding-bottom: 60px;
+    padding-left: 15px;
+}
+
+#justsection .share .finance :placeholder-shown {
+    padding-left: 15px;
+}
